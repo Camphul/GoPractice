@@ -17,4 +17,6 @@ go get github.com/spf13/viper
 - https://golang.org/doc/code.html
 - https://github.com/spf13/viper for configurations
 - https://github.com/tmrts/go-patterns
+- https://golang.org/pkg/context/
+- https://tour.golang.org/concurrency/1
 - https://github.com/mindworker/go-concurrency-exercises
